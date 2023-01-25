@@ -41,7 +41,7 @@ print(Norm_of_matrix)
 
 
 
-# Infinity Norm of a Matrix
+ # Infinity Norm of a Matrix
 '''
 Developed by: Vishnupriya R
 RegisterNumber: 22006962
